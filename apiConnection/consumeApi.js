@@ -1,5 +1,5 @@
 const url = "https://inventario-g397.onrender.com/api/categorias";
-const urlpro = "http://127.0.0.1:5000/api/productos";
+const urlpro = "https://inventario-g397.onrender.com/api/productos";
 
 export const obtainCategories = async () => {
   try {
